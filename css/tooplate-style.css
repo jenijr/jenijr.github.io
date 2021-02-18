@@ -112,18 +112,17 @@ ul {
 
 ul.dashed {
   list-style-type: none;
-  text-indent: -5px;
-  padding-left: 835px;
+  
 }
 
 
-/*ul.dashed>li:before {
+ul.dashed>li:before {
   content: "-";
   text-indent: -5px;
   padding-left: 820px;
   
   
-}*/
+}
 
 .btn {
   padding: 10px 30px;
